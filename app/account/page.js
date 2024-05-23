@@ -1,13 +1,12 @@
 export const metadata = {
-  title: "Account",
-  description: "Your account page.",
+  title: "Guest area",
 };
 
 const AccountPage = () => {
   return (
-    <div>
-      <h1>Account Page</h1>
-    </div>
+    <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+      Welcome, Amr
+    </h2>
   );
 };
 
