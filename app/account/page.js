@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Account",
+  description: "Your account page.",
+};
+
 const AccountPage = () => {
   return (
     <div>
